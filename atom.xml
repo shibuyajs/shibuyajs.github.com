@@ -1,100 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Shibuya.js</title>
-  <meta name="author" content="Shibuya.js">
-
-  
-  <meta name="description" content="3月8日(火)、JavaScript での Test にフォーカスをを当てたShibuya.js テクニカルトーク Test.js を開催します。 事前の参加登録は http://atnd.org/events/13389
-からお願いします。またハッシュタグは #shibuyajs をご利用下さい &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://hotchpotch.github.com/shibuyajs">
-  <link href="/shibuyajs/favicon.png" rel="icon">
-  <link href="/shibuyajs/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/shibuyajs/javascripts/modernizr-2.0.js"></script>
-  <script src="/shibuyajs/javascripts/ender.js"></script>
-  <script src="/shibuyajs/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/shibuyajs/atom.xml" rel="alternate" title="Shibuya.js" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/shibuyajs/">Shibuya.js</a></h1>
-  
-    <h2>Rediscover the JavaScript</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/shibuyajs/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:hotchpotch.github.com/shibuyajs" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/shibuyajs/">Blog</a></li>
-  <li><a href="/shibuyajs/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Shibuya.js]]></title>
+  <link href="http://hotchpotch.github.com/shibuyajs/atom.xml" rel="self"/>
+  <link href="http://hotchpotch.github.com/shibuyajs/"/>
+  <updated>2012-05-02T18:59:11+09:00</updated>
+  <id>http://hotchpotch.github.com/shibuyajs/</id>
+  <author>
+    <name><![CDATA[Shibuya.js]]></name>
     
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2011/02/28/test/">Test.js</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2011-02-28T16:12:00+09:00" pubdate data-updated="true">Feb 28<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>3月8日(火)、JavaScript での Test にフォーカスをを当てたShibuya.js テクニカルトーク Test.js を開催します。</p>
+  <entry>
+    <title type="html"><![CDATA[Test.js]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2011/02/28/test/"/>
+    <updated>2011-02-28T16:12:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2011/02/28/test</id>
+    <content type="html"><![CDATA[<p>3月8日(火)、JavaScript での Test にフォーカスをを当てたShibuya.js テクニカルトーク Test.js を開催します。</p>
 
 <p>事前の参加登録は <a href="http://atnd.org/events/13389">http://atnd.org/events/13389</a>
 からお願いします。またハッシュタグは #shibuyajs をご利用下さい。ustream は <a href="http://www.ustream.tv/channel/shibuyajs">http://www.ustream.tv/channel
@@ -134,42 +58,15 @@
 <li>Constellation (<a href="http://utatane-constellation.tumblr.com/post/3711268645">資料</a>)</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2008/07/01/shibuya-js-in-kyoto/">Shibuya.js in Kyoto</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2008-07-01T18:06:00+09:00" pubdate data-updated="true">Jul 1<span>st</span>, 2008</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>2008年 7月19日(土)のOSC 2008 Kansai のセッションで、Shibuya.js の出張トークイベント『Shibuya.js in
+  <entry>
+    <title type="html"><![CDATA[Shibuya.js in Kyoto]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2008/07/01/shibuya-js-in-kyoto/"/>
+    <updated>2008-07-01T18:06:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2008/07/01/shibuya-js-in-kyoto</id>
+    <content type="html"><![CDATA[<p>2008年 7月19日(土)のOSC 2008 Kansai のセッションで、Shibuya.js の出張トークイベント『Shibuya.js in
 Kyoto』を行いました。参加なさったみなさん、ありがとうございます。資料へのリンクは逐一張っていきます。 今回は普段の Shibuya.js
 のメンバーの他に、関西で活躍する JavaScriptist をゲストに招き開催します。</p>
 
@@ -215,42 +112,15 @@ Kyoto』を行いました。参加なさったみなさん、ありがとうご
 <li>「Greasemonkeyとおもてなし」 (kanasan) 12:00 - 12:05 (<a href="http://www.kanasansoft.com/weblab/2008/07/osc2008kansaishibuyajs_in_kyot.html">資料</a>)</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2007/10/16/the-future-of-javascript-presented-by-mozilla-shibuya-js/">The Future of JavaScript　-presented by Mozilla & Shibuya.JS-</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-10-16T17:13:00+09:00" pubdate data-updated="true">Oct 16<span>th</span>, 2007</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>米国 Mozilla Corporation の JavaScript エバンジェリストである John Resig の来日に合わせ、Mozilla
+  <entry>
+    <title type="html"><![CDATA[The Future of JavaScript　-presented by Mozilla & Shibuya.JS-]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2007/10/16/the-future-of-javascript-presented-by-mozilla-shibuya-js/"/>
+    <updated>2007-10-16T17:13:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2007/10/16/the-future-of-javascript-presented-by-mozilla-shibuya-js</id>
+    <content type="html"><![CDATA[<p>米国 Mozilla Corporation の JavaScript エバンジェリストである John Resig の来日に合わせ、Mozilla
 Japan と Shibuya.js とのコラボレーションで「The Future of
 JavaScript」と題した下記のイベントを開催いたします。未来の JavaScript にフォーカスした John Resig
 の講演の他、JavaScript 界隈の国内の最新動向の発表、そして最後に Shibuya.js のメンバーと John Resig との Q &amp; A
@@ -325,42 +195,15 @@ JavaScript Techniques」。軽量 JavaScript
 <li>ディスカッションの内容等プログラムは変更になる場合がございますのでご了承ください。</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2007/08/24/Shibuya-js-24/">出張 Shibuya.js 24</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-08-24T11:56:00+09:00" pubdate data-updated="true">Aug 24<span>th</span>, 2007</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>2007年9月15日(土) より開催される <a href="http://www.mozilla24.com/">Mozilla 24 ～ Worldwide Continuous Event
+  <entry>
+    <title type="html"><![CDATA[出張 Shibuya.js 24]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2007/08/24/Shibuya-js-24/"/>
+    <updated>2007-08-24T11:56:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2007/08/24/Shibuya-js-24</id>
+    <content type="html"><![CDATA[<p>2007年9月15日(土) より開催される <a href="http://www.mozilla24.com/">Mozilla 24 ～ Worldwide Continuous Event
 ～</a>の1プログラムとして、Shibuya.js のトークイベント『出張 Shibuya.js
 24』を行いました。 参加者のみなさん、お疲れ様でした。なお、公開された資料へは逐一このページよりリンクを張っていきます。</p>
 
@@ -473,84 +316,30 @@ id登録→ログイン→プログラムの参加申込→会場「ベルサー
 </li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2007/03/23/shibuya-es-%E3%81%A6%E3%82%99%E3%81%AE%E4%B8%AD%E7%B6%99%E3%81%AE%E3%81%93%E3%82%99%E6%A1%88%E5%86%85/">Shibuya.es での中継のご案内</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-03-23T01:40:00+09:00" pubdate data-updated="true">Mar 23<span>rd</span>, 2007</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>本日 3/23 日に開かれる <a href="http://shibuyajs.org/articles/2007/03/09/shibuya-js-technical-%0Atalk-3-shibuya-es">Shibuya.js Technical Talk #3 -
+  <entry>
+    <title type="html"><![CDATA[Shibuya.es での中継のご案内]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2007/03/23/shibuya-es-%E3%81%A6%E3%82%99%E3%81%AE%E4%B8%AD%E7%B6%99%E3%81%AE%E3%81%93%E3%82%99%E6%A1%88%E5%86%85/"/>
+    <updated>2007-03-23T01:40:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2007/03/23/shibuya-es-での中継のご案内</id>
+    <content type="html"><![CDATA[<p>本日 3/23 日に開かれる <a href="http://shibuyajs.org/articles/2007/03/09/shibuya-js-technical-%0Atalk-3-shibuya-es">Shibuya.js Technical Talk #3 -
 Shibuya.es</a> ですが、IIJ/i-revoさん、ウタゴエさん、デジハリさんのご協力にネット中継が行われることになりました。</p>
 
 <p>詳細については、<a href="http://stream.i-revo.jp/event/shibuya.es/">i-revo - Shibuya.es カンファレンス -
 中継のご案内</a>をご覧下さい。</p>
 
 <p>追記・一部を除く動画が上記ページで録画アーカイブとして公開されました。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2007/03/09/shibuya-js-technical-talk-3-shibuya-es/">Shibuya.js Technical Talk #3 - Shibuya.es</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-03-09T11:29:00+09:00" pubdate data-updated="true">Mar 9<span>th</span>, 2007</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Shibuya.js Technical Talk #3 - Shibuya.es を2007年3月23日にデジタルハリウッド大学秋葉原セカンドキャンパスに
+  <entry>
+    <title type="html"><![CDATA[Shibuya.js Technical Talk #3 - Shibuya.es]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2007/03/09/shibuya-js-technical-talk-3-shibuya-es/"/>
+    <updated>2007-03-09T11:29:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2007/03/09/shibuya-js-technical-talk-3-shibuya-es</id>
+    <content type="html"><![CDATA[<p>Shibuya.js Technical Talk #3 - Shibuya.es を2007年3月23日にデジタルハリウッド大学秋葉原セカンドキャンパスに
 て開催しました。ご来場の皆さん、関係者の皆さん、ありがとうございました。公開資料は逐一このページからリンクを張っていく予定です。</p>
 
 <p>今回は JavaScript だけでなく、ActionScript やその他スクリプト言語など、様々な ECMAScript
@@ -671,42 +460,15 @@ Shibuya.es</a> ですが、IIJ/i-revoさん、ウタゴエさん、デジハリ�
 </li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2007/02/07/%E3%83%86%E3%82%99%E3%83%95%E3%82%99%E3%82%B5%E3%83%9F2007%E5%87%BA%E5%BC%B5shibuya%E3%82%A4%E3%83%98%E3%82%99%E3%83%B3%E3%83%88/">デブサミ2007出張Shibuyaイベント</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-02-07T11:37:00+09:00" pubdate data-updated="true">Feb 7<span>th</span>, 2007</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>2007年 2/14(水)のデブサミ2007にて、 Shibuya.pm presents &#8220;Shibuya.js x Shibuya.pl mashup
+  <entry>
+    <title type="html"><![CDATA[デブサミ2007出張Shibuyaイベント]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2007/02/07/%E3%83%86%E3%82%99%E3%83%95%E3%82%99%E3%82%B5%E3%83%9F2007%E5%87%BA%E5%BC%B5shibuya%E3%82%A4%E3%83%98%E3%82%99%E3%83%B3%E3%83%88/"/>
+    <updated>2007-02-07T11:37:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2007/02/07/デブサミ2007出張shibuyaイベント</id>
+    <content type="html"><![CDATA[<p>2007年 2/14(水)のデブサミ2007にて、 Shibuya.pm presents &#8220;Shibuya.js x Shibuya.pl mashup
 night&#8221; セッションに Shibuya.js から特別対談として、最速研究会主任研究員(元ニート)の
 <a href="http://la.ma.la/blog/">ma.la</a> さんとCOLLECTION &amp; COPY の
 <a href="http://d.hatena.ne.jp/brazil/">id:brazil</a> さん(現ニート?)をメインとしたパネルDISカッションを行います。</p>
@@ -714,42 +476,15 @@ night&#8221; セッションに Shibuya.js から特別対談として、最速�
 <p>詳しい登録方法などは、<a href="http://shibuya.pm.or%0Ag/blosxom/techtalks/200702.html">Shibuya Perl Mongers : デブサミ2007出張Shibuyaイベント</a>をご覧下さい。現時点で残り席わずかとなっております。</p>
 
 <p>なお、当日はバレンタインデーのため、チョコレートの受け渡しも歓迎いたします。是非この機会にご来場下さい。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2006/08/28/development-environment-conference/">Development Environment Conference</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2006-08-28T14:41:00+09:00" pubdate data-updated="true">Aug 28<span>th</span>, 2006</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Development Environment Conference、開発者の開発環境のカンファレンスを 2006年9月8日にデジタルハリウッド大学(秋葉原
+  <entry>
+    <title type="html"><![CDATA[Development Environment Conference]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2006/08/28/development-environment-conference/"/>
+    <updated>2006-08-28T14:41:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2006/08/28/development-environment-conference</id>
+    <content type="html"><![CDATA[<p>Development Environment Conference、開発者の開発環境のカンファレンスを 2006年9月8日にデジタルハリウッド大学(秋葉原
 ダイビル)にて開催しました。参加者の皆さん、お疲れ様でした。なお発表者の資料は、逐一リンクを張っていく予定です。</p>
 
 <h3>概要</h3>
@@ -801,42 +536,15 @@ night&#8221; セッションに Shibuya.js から特別対談として、最速�
 <li><a href="http://blog.bulknews.net/mt/">宮川達彦</a> (<a href="http://blog.bulknews.net/mt/archives/002068.html">資料</a>)</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2006/06/15/technical-talk-2/">Technical Talk #2</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2006-06-15T12:14:00+09:00" pubdate data-updated="true">Jun 15<span>th</span>, 2006</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>2006年 6月30日(金)に Shibuya.js 第二回目のイベント、Shibuya.js Technical Talk #2
+  <entry>
+    <title type="html"><![CDATA[Technical Talk #2]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2006/06/15/technical-talk-2/"/>
+    <updated>2006-06-15T12:14:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2006/06/15/technical-talk-2</id>
+    <content type="html"><![CDATA[<p>2006年 6月30日(金)に Shibuya.js 第二回目のイベント、Shibuya.js Technical Talk #2
 を開催しました。ご来場の皆さん、ありがとうございました。なお、公開される資料はプログラム内容からリンクを逐次張って行きます。</p>
 
 <h3>開催日時</h3>
@@ -972,42 +680,15 @@ night&#8221; セッションに Shibuya.js から特別対談として、最速�
 </li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/shibuyajs/archives/2006/03/27/shibuya-js-technical-talk-1/">Shibuya.js Technical Talk #1</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2006-03-27T19:55:00+09:00" pubdate data-updated="true">Mar 27<span>th</span>, 2006</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img src="/shibuyajs/images/shibuyajsTT1.gif" alt="Shibuya.js Technical Talk #1" /></p>
+  <entry>
+    <title type="html"><![CDATA[Shibuya.js Technical Talk #1]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2006/03/27/shibuya-js-technical-talk-1/"/>
+    <updated>2006-03-27T19:55:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2006/03/27/shibuya-js-technical-talk-1</id>
+    <content type="html"><![CDATA[<p><img src="http://hotchpotch.github.com/shibuyajs/images/shibuyajsTT1.gif" alt="Shibuya.js Technical Talk #1" /></p>
 
 <p>2006年 4月14日(金)に Shibuya.js 初のイベント、Shibuya.js Technical Talk #1 を開催します。</p>
 
@@ -1119,104 +800,37 @@ night&#8221; セッションに Shibuya.js から特別対談として、最速�
 
 
 <p>順番・内容は予告無しに変更する場合があります。</p>
-</div>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[Rediscover the JavaScript]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2006/02/27/rediscover-the-javascript/"/>
+    <updated>2006-02-27T21:21:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2006/02/27/rediscover-the-javascript</id>
+    <content type="html"><![CDATA[<p>10 年。</p>
+
+<p>世界が JavaScript の真の実力を発見するのに要した時間である。</p>
+
+<p>1995 年、Netscape 社の Brendan Eich により開発・設計された JavaScript
+は、「世界で最も誤解されたプログラミング言語」などと呼ばれもした、ともすれば不遇とすらいい得る歳月を経て、あたりのそこここに満ち充ちていた「Web
+の旧来的なインタラクションの窮屈さを革命したい」という思いによって、ふたたび表舞台に招来された。</p>
+
+<p>JavaScript は、Web の「あちら側」と「こちら側」とを取り結ぶ、もっとも古くてもっとも新しい、そして、もっとも重要な技術だ。次の 10
+年を自らの手で創り出すために、我々は Shibuya.js を結成した。</p>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[About Us]]></title>
+    <link href="http://hotchpotch.github.com/shibuyajs/archives/2006/02/27/about-us/"/>
+    <updated>2006-02-27T21:20:00+09:00</updated>
+    <id>http://hotchpotch.github.com/shibuyajs/archives/2006/02/27/about-us</id>
+    <content type="html"><![CDATA[<p>Shibuya.js は主に東京近辺の JavaScript プログラマによる非営利団体です。各個人のプログラミングスキルの向上を目的に、勉強会ならびにカン
+ファレンスの開催、情報交換などを行うコミュニティを目指しています。</p>
 
-
-    </article>
+<p>Shibuya.js は JavaScript を利用し、スキル向上を望む方であればどなたでも無料で参加できます。</p>
+]]></content>
+  </entry>
   
-  <div class="pagination">
-    
-      <a class="prev" href="/shibuyajs/archives/page/2/">&larr; Older</a>
-    
-    <a href="/shibuyajs/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/shibuyajs/archives/2011/02/28/test/">Test.js</a>
-      </li>
-    
-      <li class="post">
-        <a href="/shibuyajs/archives/2008/07/01/shibuya-js-in-kyoto/">Shibuya.js in Kyoto</a>
-      </li>
-    
-      <li class="post">
-        <a href="/shibuyajs/archives/2007/10/16/the-future-of-javascript-presented-by-mozilla-shibuya-js/">The Future of JavaScript　-presented by Mozilla & Shibuya.JS-</a>
-      </li>
-    
-      <li class="post">
-        <a href="/shibuyajs/archives/2007/08/24/Shibuya-js-24/">出張 Shibuya.js 24</a>
-      </li>
-    
-      <li class="post">
-        <a href="/shibuyajs/archives/2007/03/23/shibuya-es-%E3%81%A6%E3%82%99%E3%81%AE%E4%B8%AD%E7%B6%99%E3%81%AE%E3%81%93%E3%82%99%E6%A1%88%E5%86%85/">Shibuya.es での中継のご案内</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2012 - Shibuya.js -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
