@@ -1,69 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://shibuyajs.github.com/archives/2006/02/27/about-us/</loc>
+        <loc>http://shibuyajs.org/archives/2006/02/27/about-us/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
-        <loc>http://shibuyajs.github.com/archives/2006/02/27/rediscover-the-javascript/</loc>
+        <loc>http://shibuyajs.org/archives/2006/02/27/rediscover-the-javascript/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
-        <loc>http://shibuyajs.github.com/archives/2006/03/27/shibuya-js-technical-talk-1/</loc>
+        <loc>http://shibuyajs.org/archives/2006/03/27/shibuya-js-technical-talk-1/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
-        <loc>http://shibuyajs.github.com/archives/2006/06/15/technical-talk-2/</loc>
+        <loc>http://shibuyajs.org/archives/2006/06/15/technical-talk-2/</loc>
+        <lastmod>2012-05-03T09:39:20+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://shibuyajs.org/archives/2006/08/28/development-environment-conference/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
         <loc>
-            http://shibuyajs.github.com/archives/2006/08/28/development-environment-conference/
+            http://shibuyajs.org/archives/2007/02/07/%E3%83%86%E3%82%99%E3%83%95%E3%82%99%E3%82%B5%E3%83%9F2007%E5%87%BA%E5%BC%B5shibuya%E3%82%A4%E3%83%98%E3%82%99%E3%83%B3%E3%83%88/
         </loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
         <loc>
-            http://shibuyajs.github.com/archives/2007/02/07/%E3%83%86%E3%82%99%E3%83%95%E3%82%99%E3%82%B5%E3%83%9F2007%E5%87%BA%E5%BC%B5shibuya%E3%82%A4%E3%83%98%E3%82%99%E3%83%B3%E3%83%88/
+            http://shibuyajs.org/archives/2007/03/09/shibuya-js-technical-talk-3-shibuya-es/
         </loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
         <loc>
-            http://shibuyajs.github.com/archives/2007/03/09/shibuya-js-technical-talk-3-shibuya-es/
+            http://shibuyajs.org/archives/2007/03/23/shibuya-es-%E3%81%A6%E3%82%99%E3%81%AE%E4%B8%AD%E7%B6%99%E3%81%AE%E3%81%93%E3%82%99%E6%A1%88%E5%86%85/
         </loc>
+        <lastmod>2012-05-03T09:39:20+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://shibuyajs.org/archives/2007/08/24/Shibuya-js-24/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
         <loc>
-            http://shibuyajs.github.com/archives/2007/03/23/shibuya-es-%E3%81%A6%E3%82%99%E3%81%AE%E4%B8%AD%E7%B6%99%E3%81%AE%E3%81%93%E3%82%99%E6%A1%88%E5%86%85/
+            http://shibuyajs.org/archives/2007/10/16/the-future-of-javascript-presented-by-mozilla-shibuya-js/
         </loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
-        <loc>http://shibuyajs.github.com/archives/2007/08/24/Shibuya-js-24/</loc>
+        <loc>http://shibuyajs.org/archives/2008/07/01/shibuya-js-in-kyoto/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://shibuyajs.github.com/archives/2007/10/16/the-future-of-javascript-presented-by-mozilla-shibuya-js/
-        </loc>
+        <loc>http://shibuyajs.org/archives/2011/02/28/test/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
-        <loc>http://shibuyajs.github.com/archives/2008/07/01/shibuya-js-in-kyoto/</loc>
+        <loc>http://shibuyajs.org/blog/archives/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
     <url>
-        <loc>http://shibuyajs.github.com/archives/2011/02/28/test/</loc>
-        <lastmod>2012-05-03T09:39:20+09:00</lastmod>
-    </url>
-    <url>
-        <loc>http://shibuyajs.github.com/blog/archives/</loc>
-        <lastmod>2012-05-03T09:39:20+09:00</lastmod>
-    </url>
-    <url>
-        <loc>http://shibuyajs.github.com/</loc>
+        <loc>http://shibuyajs.org/</loc>
         <lastmod>2012-05-03T09:39:20+09:00</lastmod>
     </url>
 </urlset>
