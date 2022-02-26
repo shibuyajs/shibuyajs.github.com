@@ -2,4 +2,4 @@
 
 shibuyajs.org のアーカイブ
 
-- http://shibuyajs.github.io/
+- https://shibuyajs.github.io/
